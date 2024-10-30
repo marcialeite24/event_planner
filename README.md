@@ -32,10 +32,10 @@ Through this project, the following skills and concepts were developed:
 - **Semantic HTML Markup:** Ensuring usability and SEO benefits by using semantic HTML elements like `<header>, <section>, <article>, <footer>, etc`.
 
 ## Getting Started
-- Clone the repository:
+- Clone the repository (it was necessary to clone the repository of this course to start this project):
 
 ``` bash 
-git clone https://github.com/your-username/event-planner-landing-page.git
+git clone https://github.com/ibm-developer-skills-network/event_planner.git
 cd event-planner-landing-page
 ```
 
