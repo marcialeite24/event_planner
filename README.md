@@ -29,7 +29,7 @@ Through this project, the following skills and concepts were developed:
 - **Component-based Architecture:** Structuring the landing page using reusable components for a clean, organized, and maintainable codebase.
 - **JSX Syntax:** Writing UI elements such as headers, paragraphs, lists, and buttons using JSX within React functional components.
 - **Dynamic Content Rendering:** Dynamically displaying event categories, features, and testimonials fetched from data sources.
-- **Semantic HTML Markup:** Ensuring usability and SEO benefits by using semantic HTML elements like <header>, <section>, <article>, <footer>, etc.
+- **Semantic HTML Markup:** Ensuring usability and SEO benefits by using semantic HTML elements like `<header>, <section>, <article>, <footer>, etc`.
 
 ## Getting Started
 - Clone the repository:
